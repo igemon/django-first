@@ -1,0 +1,9 @@
+li a {
+    color: red;
+    font-family: Arial, sans-serif;
+    font-size: 22px;
+}
+body {
+	padding: 50px;
+    background: #045454 url("images/background.jpg") no-repeat center;
+}
